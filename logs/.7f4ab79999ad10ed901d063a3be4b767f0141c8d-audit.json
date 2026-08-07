@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/kxvil/Desktop/Hyrex/logs/.7f4ab79999ad10ed901d063a3be4b767f0141c8d-audit.json",
+    "files": [
+        {
+            "date": 1786126106561,
+            "name": "/home/kxvil/Desktop/Hyrex/logs/mcp-puppeteer-2026-08-07.log",
+            "hash": "227522c07c56299db6de0e62b0c71312ce0af0bb925ab3932b2436936b9ce042"
+        }
+    ],
+    "hashType": "sha256"
+}
